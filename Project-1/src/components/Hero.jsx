@@ -4,7 +4,6 @@ const HeroSection = () => {
         <div className="hero-content">
             <h1>YOUR FEET DESERVE THE BEST</h1>
             <p>YOUR FEET DESERVE THE BEST AND WERE HERE TO HELP YOU WITH OUR SHOES. YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.</p>
-
             <div className="hero-btn">
                 <button>Shop Now</button>
                 <button className="secondary-btn">Category</button>
@@ -20,7 +19,6 @@ const HeroSection = () => {
         <div className="hero-image">
             <img src="/images/shoe_image.png" alt="hero-image" />
         </div>
-
     </main>
     );
 };
